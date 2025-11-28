@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to Jingwen Zhang's homepage👨‍💻‍."
+title: "Welcome to Jingwen Zhang's homepage👨‍💻‍"
 author_profile: true
 redirect_from: 
   - /about/
@@ -12,12 +12,12 @@ My name is Jingwen Zhang, and I am a third-year Ph.D. student in the School of S
 
 📚Publications
 ------
-1. *[ASE2025, CCF-A]* **Finding Insecure State Dependency in DApps via Multi-Source Tracing and Semantic Enrichment.** <br> **Jingwen Zhang**, Yuhong Nan, Wei Li, Kaiwen Ning, Zewei Lin, Zitong Yao, Yuming Feng, Weizhe Zhang, Zibin Zheng. 
-1. *[ICSE2025, CCF-A]* **SmartReco: Detecting Read-Only Reentrancy via Fine-Grained Cross-DApp Analysis.** <br> **Jingwen Zhang**, Zibin Zheng, Yuhong Nan, Mingxi Ye, Kaiwen Ning, Yu Zhang, Weizhe Zhang.
-1. *[计算机辅助设计与图形学学报, CCF-T1]* **散点图信息混淆的可视分析模型.** <br> **Jingwen Zhang**, Jiansu Pu, Zhuoyue Cheng, Jinyue Huang, Xunchao Cong.
-1. *[Sensors, SCI-Q3]* **egoDetect: Visual Detection and Exploration of Anomaly in Social Communication Network.** <br> Jiansu Pu, **Jingwen Zhang**, Hui Shao, Tingting Zhang, Yunbo Rao.
-1. *[ASE2025, CCF-A]* **SSR: Safeguarding Staking Rewards by Defining and Detecting Logical Defects in DeFi Staking.** <br> Zewei Lin, Jiachi Chen, **Jingwen Zhang**, Zexu Wang, Yuming Feng, Weizhe Zhang, Zibin Zheng.
-1. *[TSE, CCF-A]* **ASTRO: Detecting Access Control vulnerabilities in Smart Contract via Graph Similarity Comparison.** <br> Wei Li, Yuhong Nan, Mingxi Ye, **Jingwen Zhang**, Peilin Zheng, Zibin Zheng.
+1. **[ASE2025, CCF-A]** ***Finding Insecure State Dependency in DApps via Multi-Source Tracing and Semantic Enrichment.*** <br> **Jingwen Zhang**, Yuhong Nan, Wei Li, Kaiwen Ning, Zewei Lin, Zitong Yao, Yuming Feng, Weizhe Zhang, Zibin Zheng. 
+1. **[ICSE2025, CCF-A]** ***SmartReco: Detecting Read-Only Reentrancy via Fine-Grained Cross-DApp Analysis.*** <br> **Jingwen Zhang**, Zibin Zheng, Yuhong Nan, Mingxi Ye, Kaiwen Ning, Yu Zhang, Weizhe Zhang.
+1. **[计算机辅助设计与图形学学报, CCF-T1]** ***散点图信息混淆的可视分析模型.*** <br> **Jingwen Zhang**, Jiansu Pu, Zhuoyue Cheng, Jinyue Huang, Xunchao Cong.
+1. **[Sensors, SCI-Q3]** ***egoDetect: Visual Detection and Exploration of Anomaly in Social Communication Network.*** <br> Jiansu Pu, **Jingwen Zhang**, Hui Shao, Tingting Zhang, Yunbo Rao.
+1. **[ASE2025, CCF-A]** ***SSR: Safeguarding Staking Rewards by Defining and Detecting Logical Defects in DeFi Staking.*** <br> Zewei Lin, Jiachi Chen, **Jingwen Zhang**, Zexu Wang, Yuming Feng, Weizhe Zhang, Zibin Zheng.
+1. **[TSE, CCF-A]** ***ASTRO: Detecting Access Control vulnerabilities in Smart Contract via Graph Similarity Comparison.*** <br> Wei Li, Yuhong Nan, Mingxi Ye, **Jingwen Zhang**, Peilin Zheng, Zibin Zheng.
 
 🏅Honors and Awards
 ------
