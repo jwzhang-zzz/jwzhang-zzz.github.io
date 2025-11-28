@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Jingwen Zhang's Homepage"
+title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Jingwen Zhang(张景文)"
 description              : &description "Ph.D. Candidate, School of Software Engineering, Sun Yat-sen University"   # Update this with a general description of your site, this is the default if not overridden by a page
