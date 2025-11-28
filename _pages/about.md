@@ -1,16 +1,17 @@
 ---
 permalink: /
-title: "About me"
+title: "Welcome to Jingwen Zhang's homepage👨‍💻‍."
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
+About Me
+------
 My name is Jingwen Zhang, and I am a third-year Ph.D. student in the School of Software Engineering at Sun Yat-sen University, supervised by Prof. Zibin Zheng and Prof. Yuhong Nan. My current research interests lie primarily in blockchain reliability, program analysis, and LLM4SE. I am also interested in visual analytics, although I have not worked on this topic for quite some time.
 
-Publications
-======
+📚Publications
+------
 1. *[ASE2025, CCF-A]* **Finding Insecure State Dependency in DApps via Multi-Source Tracing and Semantic Enrichment.** <br> **Jingwen Zhang**, Yuhong Nan, Wei Li, Kaiwen Ning, Zewei Lin, Zitong Yao, Yuming Feng, Weizhe Zhang, Zibin Zheng. 
 1. *[ICSE2025, CCF-A]* **SmartReco: Detecting Read-Only Reentrancy via Fine-Grained Cross-DApp Analysis.** <br> **Jingwen Zhang**, Zibin Zheng, Yuhong Nan, Mingxi Ye, Kaiwen Ning, Yu Zhang, Weizhe Zhang.
 1. *[计算机辅助设计与图形学学报, CCF-T1]* **散点图信息混淆的可视分析模型.** <br> **Jingwen Zhang**, Jiansu Pu, Zhuoyue Cheng, Jinyue Huang, Xunchao Cong.
@@ -18,8 +19,8 @@ Publications
 1. *[ASE2025, CCF-A]* **SSR: Safeguarding Staking Rewards by Defining and Detecting Logical Defects in DeFi Staking.** <br> Zewei Lin, Jiachi Chen, **Jingwen Zhang**, Zexu Wang, Yuming Feng, Weizhe Zhang, Zibin Zheng.
 1. *[TSE, CCF-A]* **ASTRO: Detecting Access Control vulnerabilities in Smart Contract via Graph Similarity Comparison.** <br> Wei Li, Yuhong Nan, Mingxi Ye, **Jingwen Zhang**, Peilin Zheng, Zibin Zheng.
 
-Honors and Awards
-======
+🏅Honors and Awards
+------
 **Award**
 1. 2020.06 – Outstanding Postgraduate Student, UESTC
 1. 2019.06 – Outstanding Undergraduate Graduate, UESTC
@@ -34,20 +35,20 @@ Honors and Awards
 **Project**
 1. Graduate Innovation Project: Security Risk Monitoring System for Blockchain Ecosystems, 2025.
 
-Education
-======
+🎓Education
+------
 1. *2023.09 – Present,* Ph.D. in Software Engineering, Sun Yat-sen University
 1. *2019.09 – 2022.06,* M.Eng. in Computer Science and Technology, University of Electronic Science and Technology of China (UESTC)
 1. *2015.09 – 2019.06,* B.Eng. in Computer Science and Technology, University of Electronic Science and Technology of China (UESTC)
 
-Talks
-======
+⏲Talks
+------
 1. 2025.11, ASE 2025 oral presentation, Seoul, Korea.
 1. 2025.05, ICSE 2025 oral presentation, Virtual.
 1. 2024.12, ICSE 2025 accepted papers symposium held by CCF Software Engineering Committee, Virtual.
 
-Professional Services
-======
+🛎Professional Services
+------
 **Program Committee Member**
 1. International Conference on Blockchain and Trustworthy Systems (Blocksys), 2024.
 
