@@ -5,6 +5,7 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
+---
 
 My name is Jingwen Zhang(张景文), and I am a third-year Ph.D. student in the School of Software Engineering at Sun Yat-sen University, supervised by Prof. Zibin Zheng and Prof. Yuhong Nan. My current research interests lie primarily in blockchain reliability, program analysis, and LLM4SE. I am also interested in visual analytics, although I have not worked on this topic for quite some time.
 
